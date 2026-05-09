@@ -8,4 +8,4 @@ drwxr-xr-x. 2 ec2-user ec2-user 16384 May  7 02:29 my_folder
 [ec2-user@ip-172-31-0-38 ~]$ chmod 764 demo.txt 
 [ec2-user@ip-172-31-0-38 ~]$ ls -lrt demo.txt 
 -rwxrw-r--. 1 ec2-user ec2-user 0 May  9 00:54 demo.txt
-[ec2-user@ip-172-31-0-38 ~]$ ^C
+[ec2-user@ip-172-31-0-38 ~]$
